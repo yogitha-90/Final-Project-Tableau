@@ -8,7 +8,7 @@
 ### (your step 2)
 
 ## Results
-(fill in what you found about....)
+(fill in what you found about your dataset and the )
 
 ## Challenges 
 (discuss challenges you faced in the project)
