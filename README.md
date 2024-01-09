@@ -28,8 +28,6 @@ Date
 
 During EDA these were the questions formulated.
 
-Is there any relationship between joining date of host and number of reviews?
-
 Is there any variation of price based on city?
 
 Cities with higher number of Airbnb’s?
@@ -41,6 +39,9 @@ What’s the forecast for 2015 and 2016?
 Most profitable quarter for Airbnb?
 
 Highest reviewed host, highest earning host and host with highest records?
+
+Is there any relationship between joining date of host and number of reviews?
+
 
 Dashboards and woorkbooks were then focused on attempting to find answers to these questions
 
@@ -62,10 +63,20 @@ Tree maps
 
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+
+Visaualization maps are created to describe the relationship between the airbnb and cities where Manhatten has the highest number of Airbnb.
+
+Visualization map is created to describe the relationship between the prices and cities, where Manhantten ranks first
+
+Built a workbook to explain the trend in price of apartment and house with time where The apartment prices grew very much faster when compared to the house.
+The p value is very low making it statistically significant.
+
+Built a workbook to forecast the prices for 2015-2016 based on available data.
+
+Built an interactive dashboard for host parameters and enabled filters to help viewers to get a clear idea about records, reviews, earnings and joining date of host.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+I initially started working on Option 1 because I felt my data visualization skills were insufficient for a standalone task. I spent four to five hours trying to connect the other Excel files together, but failed. so I choose option 2 to further proceed with the project.
 
 ## Future Goals
-(what would you do if you had more time?)
+I would do further analysis to produce more insights from the Airbnb data.
