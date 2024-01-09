@@ -11,10 +11,15 @@ Connected to the data through Tableau and detected different data types:
 The data has 30478 records of property names with 13 attributes
 The goal of the project is to do the exploratory data analysis, observe trends patterns and through initial observations to tell a meaningful story through visualization.
 The most important features from the data set are
+
 Geographic locations
+
 Property types
+
 Price
+
 Reviews 
+
 Date
 
 
@@ -22,11 +27,17 @@ Date
 During EDA these were the questions formulated.
 
 Is there any relationship between joining date of host and number of reviews?
+
 Is there any variation of price based on city?
+
 Cities with higher number of Airbnb’s?
+
 Is there any relationship between price, property type  and time?
+
 What’s the forecast for 2015 and 2016?
+
 Most profitable quarter for Airbnb?
+
 Highest reviewed host, highest earning host and host with highest records?
 
 
