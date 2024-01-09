@@ -16,10 +16,19 @@ Property types
 Price
 Reviews 
 Date
-![image](https://github.com/yogitha-90/Final-Project-Tableau/assets/145248979/201e7d00-fa57-44c5-893c-0d3e8b7a012d)
 
 
 ### (your step 2)
+During EDA these were the questions formulated.
+
+Is there any relationship between joining date of host and number of reviews?
+Is there any variation of price based on city?
+Cities with higher number of Airbnb’s?
+Is there any relationship between price, property type  and time?
+What’s the forecast for 2015 and 2016?
+Most profitable quarter for Airbnb?
+Highest reviewed host, highest earning host and host with highest records?
+
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
