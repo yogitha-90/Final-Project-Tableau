@@ -1,10 +1,11 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+I selected to work with Option 2 which was a cleaned data set of Airbnb.The goal of this project is to perform Exploratory Data Analysis, observe trends and patterns . Use those initial observations to tell a meaningful story through visualizations.
 
 ## Process
 ### (your step 1)
+
 ### (your step 2)
 
 ## Results
