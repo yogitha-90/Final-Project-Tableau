@@ -22,12 +22,10 @@ Reviews
 
 Date
 
-Dashboards and woorkbooks were then focused on attempting to find answers to these questions
-
-TableauPresentationFile2AirbnbKandhiYogitha.PDF.
 
 
 ### (your step 2)
+
 During EDA these were the questions formulated.
 
 Is there any relationship between joining date of host and number of reviews?
@@ -43,6 +41,24 @@ What’s the forecast for 2015 and 2016?
 Most profitable quarter for Airbnb?
 
 Highest reviewed host, highest earning host and host with highest records?
+
+Dashboards and woorkbooks were then focused on attempting to find answers to these questions
+
+# Rationale for choice of visualizations
+
+Maps
+
+Bar graphs
+
+Line graphs
+
+Clusters
+
+Table 
+
+Packed bubbles
+
+Tree maps
 
 
 ## Results
