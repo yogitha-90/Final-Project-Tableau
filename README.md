@@ -6,6 +6,19 @@ I selected to work with Option 2 which was a cleaned data set of Airbnb.The goal
 ## Process
 ### (your step 1)
 
+I choose Airbnb data for option 2 to do this project.
+Connected to the data through Tableau and detected different data types:
+The data has 30478 records of property names with 13 attributes
+The goal of the project is to do the exploratory data analysis, observe trends patterns and through initial observations to tell a meaningful story through visualization.
+The most important features from the data set are
+Geographic locations
+Property types
+Price
+Reviews 
+Date
+![image](https://github.com/yogitha-90/Final-Project-Tableau/assets/145248979/201e7d00-fa57-44c5-893c-0d3e8b7a012d)
+
+
 ### (your step 2)
 
 ## Results
