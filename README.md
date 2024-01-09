@@ -22,6 +22,10 @@ Reviews
 
 Date
 
+Dashboards and woorkbooks were then focused on attempting to find answers to these questions
+
+TableauPresentationFile2AirbnbKandhiYogitha.PDF.
+
 
 ### (your step 2)
 During EDA these were the questions formulated.
