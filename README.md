@@ -64,6 +64,8 @@ Tree maps
 
 ## Results
 
+Key Takeaways:
+
 Visaualization maps are created to describe the relationship between the airbnb and cities where Manhatten has the highest number of Airbnb.
 
 Visualization map is created to describe the relationship between the prices and cities, where Manhantten ranks first
